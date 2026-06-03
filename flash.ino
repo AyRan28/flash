@@ -161,7 +161,7 @@ button{height:50px;font-size:16px;margin:5px;border:none;border-radius:10px;colo
 </div>
 
 <div class="card" id="musicPanel" style="display:none">
-  <b>🎸 Chord Control Mode</b>
+  <b> Chord Control Mode</b>
   <p style="font-size:12px;color:#aaa;margin:6px">Strum and HOLD each chord ~0.5 seconds</p>
   <div style="background:#1a1a1a;border-radius:10px;padding:12px;margin:8px;font-size:14px;line-height:2.4">
     <span style="color:lime">■ C major</span> → ⬆ FORWARD<br>
